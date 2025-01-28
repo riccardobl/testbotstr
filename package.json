@@ -1,0 +1,19 @@
+{
+  "dependencies": {
+    "bech32": "^2.0.0",
+    "bip39": "^3.1.0",
+    "nostr-tools": "^2.10.4",
+    "ws": "^8.18.0"
+  },
+  "type": "module",
+  "name": "testbotstr",
+  "version": "1.0.0",
+  "main": "testbotstr.js",
+  "devDependencies": {},
+  "scripts": {
+    "start": "node testbotstr.js"
+  },
+  "author": "",
+  "license": "",
+  "description": ""
+}
